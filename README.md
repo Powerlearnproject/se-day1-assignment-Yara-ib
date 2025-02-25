@@ -2,36 +2,52 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 
-#Part 1: Introduction to Software Engineering
+# Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
+## Explain what software engineering is and discuss its importance in the technology industry.
 
+- It's creating an application to solve a problem in a simple way by following certain steps: defining the problem and requirements to solve it, designing and choosing the perfect design and architecture for that app, writing the code, deploying it, and testing it, and improve it later on based on users' feedback.
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+- And it's important because it can contribute in solving various problems or facilitates things for users/customers, based on the problem we use it to solve.
 
-
-List and briefly explain the phases of the Software Development Life Cycle.
-
-
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+## Identify and describe at least three key milestones in the evolution of software engineering.
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+## List and briefly explain the phases of the Software Development Life Cycle.
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+## Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+## Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+## Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 
-#Part 2: Introduction to AI and Prompt Engineering
+## What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+## Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+### - Unit Testing: 
+  - It's a test for each part of the application.
+
+### - Integration Testing: 
+  - 
+
+### - System Testing: 
+- Test to check if the app met the requirements needed when listed before the design and coding.
+
+### - Acceptance Testing: 
+- Test based on users' feedback.
+
+# Part 2: Introduction to AI and Prompt Engineering
 
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+## Define prompt engineering and discuss its importance in interacting with AI models.
+
+- It's the way we write instructions to AI model so the more instructions are clear, the more accurate the answer will be.
+
+## Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+- Tell me a story >> that's a vague prompt.
+- Tell me a fantasy story about a kingdom with magic spreading among 
