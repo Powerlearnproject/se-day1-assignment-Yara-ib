@@ -6,6 +6,8 @@ Software Engineering Day1 Assignment
 
 ## Explain what software engineering is and discuss its importance in the technology industry.
 
+- The process of designing, developing, and maintaining software.
+  
 - It's creating an application to solve a problem in a simple way by following certain steps: defining the problem and requirements to solve it, designing and choosing the perfect design and architecture for that app, writing the code, deploying it, and testing it, and improve it later on based on users' feedback.
 
 - And it's important because it can contribute in solving various problems or facilitates things for users/customers, based on the problem we use it to solve.
